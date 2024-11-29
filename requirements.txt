@@ -20,4 +20,5 @@ sqlparse==0.5.2
 TimeConvert==3.0.13
 tzlocal==5.2
 uritemplate==4.1.1
+whitenoise==6.8.2
 xlwt==1.3.0
